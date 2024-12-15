@@ -1,10 +1,7 @@
-Face Detection in Python
-This project demonstrates face detection using Python and OpenCV. It can detect faces in static images or real-time video from a webcam.
+This Python script utilizes [insert library, e.g., OpenCV] for detecting faces in images and video streams. It identifies and highlights faces in real-time or static images.
 
-Features
-Detect faces in images.
-Real-time face detection via webcam.
-Easily customizable and extendable.
-Installation
+Features:
 
-
+Real-time face detection using webcam input.
+Supports image file input.
+Displays bounding boxes around detected faces.
